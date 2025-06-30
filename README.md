@@ -28,4 +28,4 @@ The Navigation Assistance System is a wearable device designed to aid visually i
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/Siddh01110/wearable-navigation-system-visually-impared.git
-   cd navigation-assistance-system
+   cd wearable-navigation-system-visually-impared
